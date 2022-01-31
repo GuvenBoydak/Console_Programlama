@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tip_Donusumleri", "Tip_Donu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If_Else_Ternart_If", "If_Else_Ternart_If\If_Else_Ternart_If.csproj", "{60483960-F136-42D8-A8E9-2D72547D4C4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Case", "Switch_Case\Switch_Case.csproj", "{4087A326-27CD-4002-8834-2D94D7869348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch_Case", "Switch_Case\Switch_Case.csproj", "{4087A326-27CD-4002-8834-2D94D7869348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For_Dongüsü", "For_Dongüsü\For_Dongüsü.csproj", "{56621834-53D2-4803-9314-2E2A353630B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4087A326-27CD-4002-8834-2D94D7869348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4087A326-27CD-4002-8834-2D94D7869348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4087A326-27CD-4002-8834-2D94D7869348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56621834-53D2-4803-9314-2E2A353630B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56621834-53D2-4803-9314-2E2A353630B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56621834-53D2-4803-9314-2E2A353630B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56621834-53D2-4803-9314-2E2A353630B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
