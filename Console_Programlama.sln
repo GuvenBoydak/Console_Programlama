@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oparetorler", "Oparetorler\Oparetorler.csproj", "{0477A884-47F0-4072-B1BF-4696721D33F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip_Donusumleri", "Tip_Donusumleri\Tip_Donusumleri.csproj", "{84C87429-ABAD-42F7-AE19-F544DC5E251B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tip_Donusumleri", "Tip_Donusumleri\Tip_Donusumleri.csproj", "{84C87429-ABAD-42F7-AE19-F544DC5E251B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If_Else_Ternart_If", "If_Else_Ternart_If\If_Else_Ternart_If.csproj", "{60483960-F136-42D8-A8E9-2D72547D4C4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If_Else_Ternart_If", "If_Else_Ternart_If\If_Else_Ternart_If.csproj", "{60483960-F136-42D8-A8E9-2D72547D4C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Case", "Switch_Case\Switch_Case.csproj", "{4087A326-27CD-4002-8834-2D94D7869348}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{60483960-F136-42D8-A8E9-2D72547D4C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60483960-F136-42D8-A8E9-2D72547D4C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60483960-F136-42D8-A8E9-2D72547D4C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4087A326-27CD-4002-8834-2D94D7869348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4087A326-27CD-4002-8834-2D94D7869348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4087A326-27CD-4002-8834-2D94D7869348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4087A326-27CD-4002-8834-2D94D7869348}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
