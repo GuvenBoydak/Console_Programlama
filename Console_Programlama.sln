@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methodlar", "Methodlar\Meth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Overloading", "Method_Overloading\Method_Overloading.csproj", "{10AC06B4-BB6A-487E-AAD8-FB7F5B72D592}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma_Sorulari", "Algoritma_Sorulari\Algoritma_Sorulari.csproj", "{5EB1C6C8-6110-430D-A910-20A587A18C37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{10AC06B4-BB6A-487E-AAD8-FB7F5B72D592}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10AC06B4-BB6A-487E-AAD8-FB7F5B72D592}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10AC06B4-BB6A-487E-AAD8-FB7F5B72D592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB1C6C8-6110-430D-A910-20A587A18C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB1C6C8-6110-430D-A910-20A587A18C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB1C6C8-6110-430D-A910-20A587A18C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB1C6C8-6110-430D-A910-20A587A18C37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
