@@ -17,15 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch_Case", "Switch_Case\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For_Dongüsü", "For_Dongüsü\For_Dongüsü.csproj", "{56621834-53D2-4803-9314-2E2A353630B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_ForEach", "While_ForEach\While_ForEach.csproj", "{A08AAB71-AD48-4884-AB6C-5CB25A47AABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "While_ForEach", "While_ForEach\While_ForEach.csproj", "{A08AAB71-AD48-4884-AB6C-5CB25A47AABD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{A776878B-B465-4DC3-8B50-89B444800375}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{A776878B-B465-4DC3-8B50-89B444800375}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methodlar", "Methodlar\Methodlar.csproj", "{54D4CBF1-2F3D-41BA-A927-BA987CC6BD2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methodlar", "Methodlar\Methodlar.csproj", "{54D4CBF1-2F3D-41BA-A927-BA987CC6BD2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Overloading", "Method_Overloading\Method_Overloading.csproj", "{10AC06B4-BB6A-487E-AAD8-FB7F5B72D592}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_Overloading", "Method_Overloading\Method_Overloading.csproj", "{10AC06B4-BB6A-487E-AAD8-FB7F5B72D592}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma_Sorulari", "Algoritma_Sorulari\Algoritma_Sorulari.csproj", "{5EB1C6C8-6110-430D-A910-20A587A18C37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritma_Sorulari", "Algoritma_Sorulari\Algoritma_Sorulari.csproj", "{5EB1C6C8-6110-430D-A910-20A587A18C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMethod", "ArrayMethod\ArrayMethod.csproj", "{02C15E1A-5226-4033-B6B1-352AD94635CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{5EB1C6C8-6110-430D-A910-20A587A18C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EB1C6C8-6110-430D-A910-20A587A18C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EB1C6C8-6110-430D-A910-20A587A18C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C15E1A-5226-4033-B6B1-352AD94635CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C15E1A-5226-4033-B6B1-352AD94635CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C15E1A-5226-4033-B6B1-352AD94635CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C15E1A-5226-4033-B6B1-352AD94635CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
