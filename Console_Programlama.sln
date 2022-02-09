@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_Overloading", "Metho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritma_Sorulari", "Algoritma_Sorulari\Algoritma_Sorulari.csproj", "{5EB1C6C8-6110-430D-A910-20A587A18C37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMethod", "ArrayMethod\ArrayMethod.csproj", "{02C15E1A-5226-4033-B6B1-352AD94635CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayMethod", "ArrayMethod\ArrayMethod.csproj", "{02C15E1A-5226-4033-B6B1-352AD94635CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_List", "Array_List\Array_List.csproj", "{23BD4D2A-E84B-4214-B571-A48603511172}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{02C15E1A-5226-4033-B6B1-352AD94635CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02C15E1A-5226-4033-B6B1-352AD94635CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02C15E1A-5226-4033-B6B1-352AD94635CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BD4D2A-E84B-4214-B571-A48603511172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BD4D2A-E84B-4214-B571-A48603511172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BD4D2A-E84B-4214-B571-A48603511172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BD4D2A-E84B-4214-B571-A48603511172}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
