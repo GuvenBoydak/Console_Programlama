@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_List", "Array_List\Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension_Rekürsif_Metotlar", "Extension_Rekürsif_Metotlar\Extension_Rekürsif_Metotlar.csproj", "{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMetotlar", "StringMetotlar\StringMetotlar.csproj", "{C8B121ED-23DB-430D-B610-FA0328C48174}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B121ED-23DB-430D-B610-FA0328C48174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B121ED-23DB-430D-B610-FA0328C48174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B121ED-23DB-430D-B610-FA0328C48174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B121ED-23DB-430D-B610-FA0328C48174}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
