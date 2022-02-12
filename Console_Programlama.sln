@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension_Rekürsif_Metotla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMetotlar", "StringMetotlar\StringMetotlar.csproj", "{C8B121ED-23DB-430D-B610-FA0328C48174}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datetime_Math_metotları", "Datetime_Math_metotları\Datetime_Math_metotları.csproj", "{5580C8C4-B4CF-4CB3-94E1-B0A182539497}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{C8B121ED-23DB-430D-B610-FA0328C48174}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8B121ED-23DB-430D-B610-FA0328C48174}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8B121ED-23DB-430D-B610-FA0328C48174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5580C8C4-B4CF-4CB3-94E1-B0A182539497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5580C8C4-B4CF-4CB3-94E1-B0A182539497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5580C8C4-B4CF-4CB3-94E1-B0A182539497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5580C8C4-B4CF-4CB3-94E1-B0A182539497}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
