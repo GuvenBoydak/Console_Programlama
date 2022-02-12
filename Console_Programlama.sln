@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayMethod", "ArrayMethod\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_List", "Array_List\Array_List.csproj", "{23BD4D2A-E84B-4214-B571-A48603511172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension_Rekürsif_Metotlar", "Extension_Rekürsif_Metotlar\Extension_Rekürsif_Metotlar.csproj", "{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{23BD4D2A-E84B-4214-B571-A48603511172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23BD4D2A-E84B-4214-B571-A48603511172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23BD4D2A-E84B-4214-B571-A48603511172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
