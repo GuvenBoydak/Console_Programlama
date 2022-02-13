@@ -31,15 +31,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayMethod", "ArrayMethod\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_List", "Array_List\Array_List.csproj", "{23BD4D2A-E84B-4214-B571-A48603511172}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension_Rekürsif_Metotlar", "Extension_Rekürsif_Metotlar\Extension_Rekürsif_Metotlar.csproj", "{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extension_Rekürsif_Metotlar", "Extension_Rekürsif_Metotlar\Extension_Rekürsif_Metotlar.csproj", "{ADD9F7F5-F8DB-49CF-A8D3-1F20B42DA622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMetotlar", "StringMetotlar\StringMetotlar.csproj", "{C8B121ED-23DB-430D-B610-FA0328C48174}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMetotlar", "StringMetotlar\StringMetotlar.csproj", "{C8B121ED-23DB-430D-B610-FA0328C48174}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datetime_Math_metotları", "Datetime_Math_metotları\Datetime_Math_metotları.csproj", "{5580C8C4-B4CF-4CB3-94E1-B0A182539497}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datetime_Math_metotları", "Datetime_Math_metotları\Datetime_Math_metotları.csproj", "{5580C8C4-B4CF-4CB3-94E1-B0A182539497}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{80AAD143-6314-45C0-A5D7-69F991779BFD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{B940E4F9-5BFB-4A07-AEDC-F301A302E17B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlarla_ilgili_algoritma_soruları", "Koleksiyonlarla_ilgili_algoritma_soruları\Koleksiyonlarla_ilgili_algoritma_soruları.csproj", "{BEDF1C5F-823B-4855-B04C-771282E01AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlarla_ilgili_algoritma_soruları_2", "Koleksiyonlarla_ilgili_algoritma_soruları_2\Koleksiyonlarla_ilgili_algoritma_soruları_2.csproj", "{3FAD9EDF-5A9E-4776-AC2C-75EFC0BE6512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlarla_ilgili_algoritma_soruları_3", "Koleksiyonlarla_ilgili_algoritma_soruları_3\Koleksiyonlarla_ilgili_algoritma_soruları_3.csproj", "{15692E4C-66C0-4D58-AB9E-4A91114943DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{B940E4F9-5BFB-4A07-AEDC-F301A302E17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B940E4F9-5BFB-4A07-AEDC-F301A302E17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B940E4F9-5BFB-4A07-AEDC-F301A302E17B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDF1C5F-823B-4855-B04C-771282E01AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDF1C5F-823B-4855-B04C-771282E01AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDF1C5F-823B-4855-B04C-771282E01AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDF1C5F-823B-4855-B04C-771282E01AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAD9EDF-5A9E-4776-AC2C-75EFC0BE6512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAD9EDF-5A9E-4776-AC2C-75EFC0BE6512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAD9EDF-5A9E-4776-AC2C-75EFC0BE6512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAD9EDF-5A9E-4776-AC2C-75EFC0BE6512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15692E4C-66C0-4D58-AB9E-4A91114943DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15692E4C-66C0-4D58-AB9E-4A91114943DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15692E4C-66C0-4D58-AB9E-4A91114943DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15692E4C-66C0-4D58-AB9E-4A91114943DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
