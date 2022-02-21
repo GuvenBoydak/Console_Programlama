@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sınıf_Kavramı", "Sınıf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kurucu_metot", "Kurucu_metot\Kurucu_metot.csproj", "{77F451EF-CC91-4732-AA2F-C5DA8C69C47A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{37F8E44E-0DB7-429E-9F3A-9F2EDA04B2AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{77F451EF-CC91-4732-AA2F-C5DA8C69C47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77F451EF-CC91-4732-AA2F-C5DA8C69C47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77F451EF-CC91-4732-AA2F-C5DA8C69C47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F8E44E-0DB7-429E-9F3A-9F2EDA04B2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F8E44E-0DB7-429E-9F3A-9F2EDA04B2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F8E44E-0DB7-429E-9F3A-9F2EDA04B2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F8E44E-0DB7-429E-9F3A-9F2EDA04B2AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

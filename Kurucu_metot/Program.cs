@@ -21,6 +21,7 @@ namespace Kurucu_metot
             calısan1.CalısanBilgileri();
 
 
+
             Console.ReadLine();
         }
     }
