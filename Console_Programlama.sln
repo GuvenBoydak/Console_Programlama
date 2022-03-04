@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum_Sabitler", "Enum_Sabit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Class", "Static_Class\Static_Class.csproj", "{DDC65FEB-522D-4B19-805B-095726083138}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonRehberUygulaması", "TelefonRehberUygulaması\TelefonRehberUygulaması.csproj", "{C63F6796-6310-4691-8C6C-404793F8509D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{DDC65FEB-522D-4B19-805B-095726083138}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDC65FEB-522D-4B19-805B-095726083138}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDC65FEB-522D-4B19-805B-095726083138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63F6796-6310-4691-8C6C-404793F8509D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63F6796-6310-4691-8C6C-404793F8509D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63F6796-6310-4691-8C6C-404793F8509D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63F6796-6310-4691-8C6C-404793F8509D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
